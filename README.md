@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sindhureddy
 - 👀 I’m interested in learning programming languages, coding and web development
 - 🌱 I’m currently learning java,html,css,reinforcement learning using python
-- 💞️ I’m looking to start my career as a fresher
+- 💞️ I’m looking to start my career as a fresher in web development 
 - 📫 How to reach me sindhureddy60490@gmail.com this is my mail Id
 
 <!---
